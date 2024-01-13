@@ -24,7 +24,7 @@ This Repository contains the following:
 
 ### Links
 
-- [Figma Designs](https://www.figma.com/file/sfHfVuCdqiYr0hbGf9o0ov/Fine-Touch-Salon?type=design&node-id=0-1&mode=design&t=MUADCIBz2k2syCRw-0)
+- Figma - [Figma Designs](https://www.figma.com/file/sfHfVuCdqiYr0hbGf9o0ov/Fine-Touch-Salon?type=design&node-id=0-1&mode=design&t=MUADCIBz2k2syCRw-0)
 - Live Site URL: [Vercel to be changed](https://blog-preview-card-omega-mocha.vercel.app/)
 
 ### Screenshot of the Home Page
