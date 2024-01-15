@@ -12,7 +12,8 @@ module.exports = {
         whity: '#F4E5D7',
         warmy: '#F2B678',
         browny: '#2D3021',
-        darky: '#262626'
+        darky: '#262626',
+        gray: '#818380',
       },
     },
   },
