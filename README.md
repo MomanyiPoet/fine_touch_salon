@@ -1,38 +1,27 @@
-## FINE TOUCH SALON DESIGN AND DEVELOPMENT
+## FINE TOUCH SALON WEBSITE
 
-### Table of contents
+## Table of contents
 
 - [Overview](#overview)
-  - [Introduction](#introduction)
-  - [Links](#links)
-  - [Screenshot](#screenshot)
-  - [Author](#author)
+    - [Introduction](#introduction)
+- [Process + Development](#process--development)
+    - [Development](#development)
+- [Link](#link)
+- [Author](#author)
 
 ## Overview
-
 ### Introduction
+- This responsive project aims to provide a dynamic and interactive platform for a salon business to showcase their services and attract clients through the professional website.
+![alt text](image/fineTouchSalon.PNG)
 
-This is a basic understanding of the process taken in building the Website.
+## Process + Development
+### Development
+- Tailwind CSS
+- Vite + React
+- SEO Optimization
 
-This Repository contains the following:
-
-1. Figma Designs - Designs for the different Web pages in Desktop and Mobile View.
-2. Tailwind CSS Template Files
-3. React Development
-
-**This process only covers the Desing and Development Phases**
-
-### Links
-
-- Figma - [Figma Designs](https://www.figma.com/file/sfHfVuCdqiYr0hbGf9o0ov/Fine-Touch-Salon?type=design&node-id=0-1&mode=design&t=MUADCIBz2k2syCRw-0)
-- Live Site URL: [Vercel to be changed](https://blog-preview-card-omega-mocha.vercel.app/)
-
-### Screenshot of the Home Page
-
-![Alt text](blogpreviewcard/src/assets/images/Card.png)
+## Link
+- [Fine Touch Salon Website](https://fine-touch-salon.vercel.app/)
 
 ## Author
-
-- Momanyi Brian's Website: - [Momanyi Brian](https://momanyi-brian-portfolio.vercel.app)
-- Frontend Mentor - [@MomanyiPoet](https://www.frontendmentor.io/profile/MomanyiPoet)
-
+- [Momanyi Brian](https://portfolio-momanyi-brian.vercel.app)
